@@ -54,7 +54,7 @@ const Form = () => {
                 
                 <div className="form">
                     <div className="field">
-                        <label>Username</label>
+                        <label>Name</label>
                         <input
                             type="text"
                             name="username"
